@@ -1,0 +1,1 @@
+Put your profile image in this folder and rename it to profile.jpg, or change the image filename in index.html.
